@@ -1,5 +1,5 @@
-Deployed : http://chakr-omprakash.himadhusudan.com/
-Github : https://github.com/omprakash524/Chakr-Innovation-Programming-Assignment
+# Deployed : http://chakr-omprakash.himadhusudan.com/
+# Github : https://github.com/omprakash524/Chakr-Innovation-Programming-Assignment
 
 ![Screenshot (738)](https://github.com/omprakash524/Chakr-Innovation-Programming-Assignment/assets/75905692/ae104b8d-e846-4d4b-be5e-0e7d1c6caea2)
 
