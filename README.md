@@ -1,3 +1,10 @@
+
+![Screenshot (738)](https://github.com/omprakash524/Chakr-Innovation-Programming-Assignment/assets/75905692/ae104b8d-e846-4d4b-be5e-0e7d1c6caea2)
+
+
+![Screenshot (737)](https://github.com/omprakash524/Chakr-Innovation-Programming-Assignment/assets/75905692/59075176-4e2b-418f-b757-9b75d8835885)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
