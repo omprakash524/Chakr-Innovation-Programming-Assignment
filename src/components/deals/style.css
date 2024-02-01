@@ -1,0 +1,15 @@
+.deal-footer .chip {
+  display: flex;
+  padding: 12px 16px 12px 12px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 16px;
+  background: var(--Light-Orange, #fff7e8);
+}
+
+.deal-footer {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}

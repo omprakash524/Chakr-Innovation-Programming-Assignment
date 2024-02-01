@@ -1,0 +1,39 @@
+.widget-3 {
+  border-radius: 16px;
+  background-color: #fff;
+
+  display: flex;
+  min-width: 260px;
+  min-height: 200px;
+  padding: 24px;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch;
+  justify-content: space-between;
+}
+
+.widget-3 .heading {
+  color: var(--Black, #131313);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -0.2px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.widget-3 .footer {
+  color: var(--Dark-Orange, #734a00);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.3px;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
